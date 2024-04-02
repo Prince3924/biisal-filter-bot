@@ -4,7 +4,7 @@ class script(object):
 ɪ ᴀᴍ ᴘᴏᴡᴇʀ ғᴜʟʟ ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ
 ɪ ᴀᴍ ᴘᴍ sʜᴏʀᴛɴᴇʀ-ʟɪɴᴋ ʙᴏᴛ
 
-ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/Biisal">Bɪɪsᴀʟ</a></b> 😏</b>"""
+ᴍᴀɴᴛᴀɪɴᴇᴅ ʙʏ : <a href="https://t.me/Help_Chat_u_bot">P⃠r⃠i⃠n⃠c⃠e⃠</a></b> 😏</b>"""
 
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
@@ -14,11 +14,11 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 🔻 ᴛᴏ ᴇɴᴀʙʟᴇ ғᴏʀᴄᴇ sᴜʙ (ғᴏʀᴄᴇ sᴜʙsᴄʀɪʙᴇ) ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ
 • ᴍᴀᴋᴇ ʙᴏᴛ ᴀᴅᴍɪɴ ɪɴ ʙᴏᴛʜ ɢʀᴏᴜᴘ ᴀɴᴅ ᴄᴀʜɴɴᴇʟ
 • sᴇɴᴅ /forcesub -100CHANNEL ID ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ
-• EX : /forcesub -1001734958816
+• EX : /forcesub -1001734xxxxx
 
 🔻 ᴛᴏ sᴛᴏᴘ ғᴏʀᴄᴇ sᴜʙ
 • sᴇɴᴅ /noforcesub -100CHANNEL ID ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ
-• EX : /noforcesub -1001734958816
+• EX : /noforcesub -1001xxxxxxxxx
 
 🔻 ᴛᴏ ᴄʜᴇᴄᴋ ᴄᴏɴɴᴇᴄᴛᴇᴅ ғᴏʀᴄᴇsᴜʙ ᴄʜᴀɴɴᴇʟ
 • sᴇɴᴅ /checksub ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ
@@ -27,7 +27,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>
  🤖 ᴍʏ ɴᴀᴍᴇ : {}
- 👨‍💻 ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/Biisal'>Bɪɪsᴀʟ</a>
+ 👨‍💻 ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/Help_Chat_u_bot'>P⃠r⃠i⃠n⃠c⃠e⃠</a>
  📚 ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a>
  📝 ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a>
  ♻️ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a>
@@ -36,7 +36,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     SOURCE_TXT = """
 <b>Tʜɪꜱ Bᴏᴛ Iꜱ NOT Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.</b>
-<b>Cᴏɴᴛᴀᴄᴛ Aᴅᴍɪɴ : @Biisal<b/>
+<b>Cᴏɴᴛᴀᴄᴛ Aᴅᴍɪɴ : @Help_chat_u_bot<b/>
 """
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
@@ -179,7 +179,7 @@ Nᴀᴍᴇ - {}"""
 
 ᴇxᴀᴍᴘʟᴇ 👇
 
- /shortlink ez4short.com 837b7a64653d1b435f5e20a237840f1251d0c1ce
+ /shortlink gplinks.com 1bdd8968fc7022939d184b75aed4055fc166d2d3
 
 ɴᴏᴡ ʏᴏᴜʀ ᴡᴏʀᴋ ɪꜱ ᴏᴠᴇʀ
 
@@ -221,7 +221,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b><a href="https://t.me/DirectFilee_Bot">{file_name}
+    CAPTION = """<b><a href="https://t.me/+wwPpm865ER5hNWZl">{file_name}
 
 sɪᴢᴇ : {file_size}
 Pʟᴇᴀsᴇ Fᴏʀᴡᴀʀᴅ Tʜɪs Fɪʟᴇ</a></b>"""
